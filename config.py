@@ -1,5 +1,5 @@
 """
-Space Invader Template - Configurable settings for the game.
+Configurable settings for the game.
 Adjust these values to customize gameplay without changing game logic.
 """
 
